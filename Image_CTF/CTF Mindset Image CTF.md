@@ -87,3 +87,8 @@ steghide extract -sf stegosteg.jpg
 - [https://ctftime.org/writeup/14396](https://ctftime.org/writeup/14396)
 - [https://hackmd.io/@FlsYpINbRKixPQQVbh98kw/Bk9Wj63vH](https://hackmd.io/@FlsYpINbRKixPQQVbh98kw/Bk9Wj63vH)
 - [https://ctf-wiki.mahaloz.re/misc/picture/png/](https://ctf-wiki.mahaloz.re/misc/picture/png/)
+
+## Contributor:
+- [princep4 - Github](https://github.com/princep4)
+
+- [PrincePrafull3 -  Twitter](https://twitter.com/PrincePrafull3)
